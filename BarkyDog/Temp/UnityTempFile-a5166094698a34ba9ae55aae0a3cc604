@@ -297,7 +297,8 @@
 /define:UNITY_TEAM_LICENSE
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
-"Assets/GameManager.cs"
 "Assets/Scripts/FlyingFeature.cs"
+"Assets/Scripts/GameManager.cs"
 "Assets/Scripts/PipeMovement.cs"
 "Assets/Scripts/PipeSpawner.cs"
+"Assets/Scripts/Score.cs"

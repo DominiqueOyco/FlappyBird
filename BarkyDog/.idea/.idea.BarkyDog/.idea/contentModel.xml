@@ -4,11 +4,13 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="GameManager.cs" t="Include" />
+        <e p="AddScore.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="FlyingFeature.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
           <e p="PipeMovement.cs" t="Include" />
           <e p="PipeSpawner.cs" t="Include" />
+          <e p="Score.cs" t="Include" />
         </e>
       </e>
       <e p="BarkyDog.sln" t="IncludeFlat" />
